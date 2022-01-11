@@ -1,0 +1,10 @@
+Nvidia abrió versión gratuita de su Omniverse a disposición de millones de creadores
+
+Esta es la base que conecta mundos virtuales, y accederán creadores individuales de Nvidia Studio que utilizan GPUs Geforce RTX
+
+El desarrollador tecnológico, Nvidia, anunció que dispuso una versión gratuita de Omniverse, una plataforma de simulación de mundo virtual y de colaboración de diseño 3D en tiempo real.
+Esto fue diseñado para ser la base que conecta mundos virtuales, y podrán acceder todos los creadores individuales de Nvidia Studio que utilizan GPUs Geforce RTX y Nvidia RTX.
+En esa línea, también anunció nuevos desarrollos de plataforma para Omniverse Machinima, diseñado para creadores de RTX que aman los juegos, con nuevos personajes, objetos y entornos gratuitos de títulos de juegos líderes como Mechwarrior 5 y Shadow Warrior 3; Omniverse Audio2Face, una aplicación habilitada para inteligencia artificial que anima instantáneamente una cara en 3D con solo una pista de audio y que ofrece compatibilidad con blendshape y exportación directa a la aplicación MetaHuman Creator de Epic;  mercados 3D; y Nucleus Cloud, que permite compartir de forma sencilla grandes escenas de Omniverse 3D, en un ambiente colaborativo desde el otro lado de la sala o el mundo sin la transferencia de datos masivos.
+Zhelong Xu, artista digital y Omniverse Creator co sede en Shanghai, aseguró que “con esta tecnología, los creadores de contenido obtienen más que un renderizador rápido, pues Nvidia Omniverse y RTX brindan a los artistas una plataforma poderosa con infinitas posibilidades".
+Los creadores podrán usar aplicaciones de diseño líderes para crear activos y escenas 3D desde su computadora o estación de trabajo. Desde que se lanzó la versión beta, Omniverse ha sido descargado por casi 100.000 creadores, que aceleran sus flujos de trabajo para renderizado, física e inteligencia artificial.
+Estos creadores construyen mundos virtuales 3D interconectados para el comercio, el entretenimiento, la creatividad y la industria. Todas las creaciones tendrán tiendas, hogares, personas, robots, fábricas, museos y gran cantidad de contenido 3D.

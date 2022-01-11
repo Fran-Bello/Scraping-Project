@@ -1,0 +1,14 @@
+Las células T de los resfriados comunes pueden entregar protección contra el covid-19
+
+Esto según un estudio que analizó los niveles de estas células de reacción cruzada generados por los resfriados comunes
+
+Un estudio del Imperial College de Londres, publicado el lunes, ha descubierto que los altos niveles de células T generados por coronavirus del resfrío común pueden proporcionar protección contra el covid-19, lo que podría aportar información clave el desarrollo de las vacunas de segunda generación.
+La inmunidad contra el covid-19 es un cuadro complejo, y aunque hay pruebas de que los niveles de anticuerpos disminuyen seis meses después de la vacunación, se cree que las células T también desempeñan un papel vital en la provisión de protección.
+El estudio, que comenzó en septiembre de 2020, analizó los niveles de células T de reacción cruzada generados por resfriados comunes anteriores en 52 contactos domésticos de casos positivos de 
+ poco después de la exposición, para ver si desarrollaban la infección.
+Se descubrió que los 26 que no desarrollaron la infección tenían niveles significativamente más altos de esas células T que las personas que se infectaron. El Imperial no dijo cuánto duraba la protección de las células T.
+"Descubrimos que los altos niveles de células T preexistentes, creadas por el organismo cuando se infectan con otros coronavirus humanos como el resfriado común, pueden proteger contra la infección por covid-19", dijo la autora del estudio, la Dra. Rhia Kundu.
+Los autores del estudio, publicado en Nature Communications, afirmaron que las proteínas internas del virus SARS-CoV-2 a las que se dirigen las células T podrían ofrecer un objetivo alternativo para los fabricantes de vacunas.
+Las vacunas actuales contra el covid-19 se dirigen a la proteína "spike", que muta regularmente, creando variantes como la ómicron, que disminuyen la eficacia de las vacunas contra la infección sintomática.
+"En cambio, las proteínas internas a las que se dirigen las células T protectoras que hemos identificado mutan mucho menos", afirma el profesor Ajit Lalvani, coautor del estudio.
+"En consecuencia, están muy conservadas entre las distintas variantes del SARS-CoV-2, incluida Omicron. Por tanto, las nuevas vacunas que incluyan estas proteínas internas conservadas inducirían respuestas de células T ampliamente protectoras que deberían proteger contra las variantes actuales y futuras del SARS-CoV-2".
